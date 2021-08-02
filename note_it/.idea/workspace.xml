@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5104b5b0-b974-4dec-8d9d-ae2d07c1dfb1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rrUkh6qdnxGz4VrY12kFWXoBnZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5104b5b0-b974-4dec-8d9d-ae2d07c1dfb1" name="Default Changelist" comment="" />
+      <created>1619733846242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619733846242</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="637" y="240" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1620218516462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="240" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620218516462" />
+    <state x="-73" y="145" width="1736" height="856" key="AVDManager" timestamp="1620129609592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-73" y="145" width="1736" height="856" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1620129609592" />
+    <state width="1865" height="168" key="GridCell.Tab.0.bottom" timestamp="1620138903446">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620138903446" />
+    <state width="1865" height="168" key="GridCell.Tab.0.center" timestamp="1620138903446">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="168" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620138903446" />
+    <state width="1865" height="168" key="GridCell.Tab.0.left" timestamp="1620138903445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="168" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620138903445" />
+    <state width="1865" height="168" key="GridCell.Tab.0.right" timestamp="1620138903446">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="168" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620138903446" />
+    <state x="424" y="127" key="new project wizard" timestamp="1620219050668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="424" y="127" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1620219050668" />
+    <state x="532" y="236" key="run.anything.popup" timestamp="1619737443600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="236" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619737443600" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1619881905264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619881905264" />
+  </component>
+</project>
